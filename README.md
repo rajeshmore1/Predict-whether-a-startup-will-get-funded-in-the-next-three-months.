@@ -1,0 +1,2 @@
+# Predict-whether-a-startup-will-get-funded-in-the-next-three-months.
+There has been a staggering growth in investments in young age startups in the last 5 years. A lot of big VC firms are increasingly getting interested in the startup funding space. You are given a task to predict whether a startup will get a funding in the next three months using app traction data and startup details. This funding can be either seed funding, Series A, Series B, so on and so forth.
